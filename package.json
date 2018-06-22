@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Notes App",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/597abhinav/notes-app.git"
+  },
+  "author": "Abhinav Mathur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/597abhinav/notes-app/issues"
+  },
+  "homepage": "https://github.com/597abhinav/notes-app#readme"
+}
